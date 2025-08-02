@@ -8,3 +8,5 @@ document.getElementById('add').addEventListener('click', function() {
     const result = add(number1, number2);
     document.getElementById('calculation-result').textContent = result;
 });
+
+["subtract"]
