@@ -10,3 +10,5 @@ document.getElementById('add').addEventListener('click', function() {
 });
 
 ["subtract"]
+
+["multiply", "*"]
