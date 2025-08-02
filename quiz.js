@@ -11,3 +11,4 @@ function checkAnswer(selectedAnswer) {
     resultDiv.style.color = "red";
   }
 }
+"4"
