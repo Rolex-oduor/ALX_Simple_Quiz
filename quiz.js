@@ -14,3 +14,5 @@ function checkAnswer(selectedAnswer) {
 "4"
 
  ["document.querySelector", "quiz", "checked", "value"] / quiz.js doesn't contain: ["userAnswer"]
+
+ ["if (userAnswer === correctAnswer)"]
